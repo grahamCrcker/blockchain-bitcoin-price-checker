@@ -1,0 +1,25 @@
+body {
+    background-color: #f5f7fa;
+    min-height: 100vh;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+}
+
+.display-5 {
+    word-break: break-word;
+}
+
+button {
+    font-weight: 600;
+}
+
+.alert {
+    border-radius: 10px;
+}
